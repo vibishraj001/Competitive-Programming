@@ -7,6 +7,7 @@ Solving problems with best Time &amp; Space complexity within time limit
 2.Automorphic     | digit by digit % 10 comparison<br>
 3.Harshad         | Numbersum of digits divides n<br>
 4.Abundant Number | sum of proper divisors > n<br>
+5.Friendly pair   | (Sum of divisors of num1)/num1= (Sum of divisors of num2)/num2
 
 <h2>Golden Rules</h2>
 
