@@ -32,4 +32,23 @@ int main() {
 }
 
 
+// #include<bits/stdc++.h>
+// using namespace std;
+
+// int main() {
+
+//     int n;
+//     cin >> n;
+
+//     int root = sqrt(n);
+
+//     if(root * root == n){
+//         cout << "Perfect Square";
+//     }
+//     else{
+//         cout << "Not Perfect Square";
+//     }
+
+//     return 0;
+// }
 // Output : Yes
