@@ -6,7 +6,6 @@
 // Input : num = 10
 // Output :The number is Positive
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
